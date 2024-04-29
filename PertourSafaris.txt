@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safari Tours</title>
+</head>
+<body>
+    <h1>Safari Tours</h1>
+    <ul>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/3-day-masai-mara-group-joining-camping-safari-tour">3 Day Masai Mara Group Joining Camping Safari Tour</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/3-day-budget-safari-at-rhino-tourist-camp">3 Day Budget Safari at Rhino Tourist Camp</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/3-day-masai-mara-budget-tour">3 Day Masai Mara Budget Tour</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/3-day-wildlife-safari-to-ruaha-national-park">3 Day Wildlife Safari to Ruaha National Park</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/1-day-materuni-waterfallscoffee-tour-from-moshi">1 Day Materuni Waterfalls/Coffee Tour from Moshi</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/1-day-ngorongoro-crater-special-tour">1 Day Ngorongoro Crater Special Tour</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/4-day-omo-valley-tour-from-arbaminch">4 Day Omo Valley Tour from Arbaminch</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/1-day-arusha-national-park-trip-tanzania">1 Day Arusha National Park Trip Tanzania</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/1-day-hwange-day-trip">1 Day Hwange Day Trip</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/1-day-amboseli-national-park-day-tour">1 Day Amboseli National Park Day Tour</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/2-day-from-nairobi-ol-pejeta-conservancy-luxury-safari">2 Day from Nairobi Ol Pejeta Conservancy Luxury Safari</a></li>
+        <li><a href="https://www.pertourmarket.com/forum/safari-details/1-day-pretoria-city-and-lion-park-tour">1 Day Pretoria City and Lion Park Tour</a></li>
+    </ul>
+</body>
+</html>
